@@ -43,3 +43,14 @@ int main()
             printf("Juice %d\n", juiceCost);
     }
 }
+
+do{
+    cout<<"tonoy\n";
+    i++;
+}while(1)
+
+while(1)
+{
+    cout<<"Tonoy\n";
+    i++;
+}
